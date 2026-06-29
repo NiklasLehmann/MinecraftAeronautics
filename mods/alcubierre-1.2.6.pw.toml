@@ -1,0 +1,14 @@
+﻿name = "alcubierre-1.2.6"
+filename = "alcubierre-1.2.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/NtSGNICO/versions/l8A1Ptp0/alcubierre-1.2.6.jar"
+hash-format = "sha512"
+hash = "5a05d0e824bbda78ec07dbc8f07867f4286035d1a1f8b277377f7fad7c5158abc6a766c42db137afbcf2ad3ef8e563a24837fe04adbaa1d5a87729ff7911f996"
+
+[update]
+[update.modrinth]
+mod-id = "NtSGNICO"
+version = "l8A1Ptp0"
+

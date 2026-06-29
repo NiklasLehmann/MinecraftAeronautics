@@ -1,0 +1,12 @@
+name = "Idiotic Aeronauts"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "b323e5bfa71e06be2bf6cd962529dcb7444d84098b5c85fb1ad97548be236f25"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.233"

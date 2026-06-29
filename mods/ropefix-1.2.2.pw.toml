@@ -1,0 +1,14 @@
+﻿name = "ropefix-1.2.2"
+filename = "ropefix-1.2.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DiyKT6tb/versions/ScehNkdE/ropefix-1.2.2.jar"
+hash-format = "sha512"
+hash = "af246582d917980cc77704afbe1f35ab7f03e4356d1d8d7d27ae35f3610308b6a444c6da21fac9b5c6aca0e49afdcec3ad8a94d99209c4bedd945c4c61a59c5d"
+
+[update]
+[update.modrinth]
+mod-id = "DiyKT6tb"
+version = "ScehNkdE"
+

@@ -1,0 +1,15 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"supplementaries:candle_holder"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"supplementaries:goblet"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"artifacts:running_shoes","components":{"relics:data":{"abilities":{"abilities":{"runner":{"points":0,"stats":{"max_step_bonus":{},"jump_charge_bonus":{"initialQuality":3},"max_speed_bonus":{"initialQuality":6}},"lock":{"breaks":5}}},"synergies":{}},"leveling":{},"statistic":{}}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"supplementaries:rope_arrow"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"aerocali:survival_physics_staff"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"simulated:engine_assembly"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create_simulated_additions:ckbg_mid_drive_engine"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create_simulated_additions:ckbgi_2_engine"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create_simulated_additions:ckbgv_4_engine"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"aerocali:industrial_generator"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"aerocali:generator"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"aerocali:thruster"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

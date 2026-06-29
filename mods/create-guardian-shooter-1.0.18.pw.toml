@@ -1,0 +1,14 @@
+﻿name = "create-guardian-shooter-1.0.18"
+filename = "create-guardian-shooter-1.0.18.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/NvmY9lVQ/versions/i9js7LSR/create-guardian-shooter-1.0.18.jar"
+hash-format = "sha512"
+hash = "abbd373e7b747fa2f7ba438063f0f9ee829aa574d2241007563697c2a246475fd46e79cf3825a69366f76722b0833e1f807df789c3c74e2a9c52b5f7c8081cd1"
+
+[update]
+[update.modrinth]
+mod-id = "NvmY9lVQ"
+version = "i9js7LSR"
+
