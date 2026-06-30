@@ -1,0 +1,13 @@
+name = "Create Aeronautics: Joystick | Control Stick"
+filename = "aeronautics_joystick3.0-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b8a813c919e015e40e72e9152b06fd4dafa6bcf6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8010260
+project-id = 1523649

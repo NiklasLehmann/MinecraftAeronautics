@@ -1,0 +1,13 @@
+name = "Drive by Wire Recipes with Sable"
+filename = "drivebywirerecipes-1.0.1-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "76d25d06eddd79accffc1638b7d2eb5827b071c6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8032781
+project-id = 1532739

@@ -1,0 +1,13 @@
+name = "Fix for Create: Tracks"
+filename = "Tracks_Patch_0.1.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "141f6ea653af1e1828c00edf07714f5bfed2f028"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8235932
+project-id = 1571794

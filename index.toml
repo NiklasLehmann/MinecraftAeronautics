@@ -1,6 +1,12 @@
 hash-format = "sha512"
 
 [[files]]
+file = "cca2.pw.toml"
+hash = "0e6f243238d293e69d5641729e4db25d9704dba24fd9d6252c0176173d4c51aa"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "config/.puzzle_cache/mojangstudios.png"
 hash = "1ba862a28dc0478ca94a0f2bf8689f4b6294ed2886dee3fdf9a10f4029110fa5"
 hash-format = "sha256"
@@ -2311,9 +2317,21 @@ hash = "7d856d3f9655abc661ac67b450a0c956bbf80323786b407301fbdca02d2c5b8b"
 hash-format = "sha256"
 
 [[files]]
+file = "create-wind-and-gears-horizons.pw.toml"
+hash = "3e10060c5d912b940d7c8e011f4b052c88dc240704230639743cd22db0b28889"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "datapacks/pressure-y1500.zip"
 hash = "400334abf4b2d7572c549d3716a9a664defbdd4c73283f37b6240a9696f5566e"
 hash-format = "sha256"
+
+[[files]]
+file = "fix-for-create-tracks.pw.toml"
+hash = "1cb6939b7034e7f19f1240533da862f953cc9456ad5243419c6ccca549ea10d9"
+hash-format = "sha256"
+metafile = true
 
 [[files]]
 file = "mods/AdvancedPeripherals-1.21.1-0.7.62b.pw.toml"
@@ -2541,7 +2559,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/L_Ender's Cataclysm 1.21.1-3.31.pw.toml"
-hash = "7f2edfb4976a59902327036b1f0be0efb4acb73dd30060b25a422b4107b53f90"
+hash = "7585068ee3f3c378015eeaf26c0c596039c6a6e90ad83c876ff479b0db8d6af4"
 hash-format = "sha256"
 metafile = true
 
@@ -2726,13 +2744,19 @@ metafile = true
 
 [[files]]
 file = "mods/aeroclaims-0.9.1.pw.toml"
-hash = "a02efaec67bbb08b382dac5847697e3a4c7835fbe69ed1e997feb2f7418c0f42"
+hash = "cb65f991b8f31b75d49a7bd19b8150be67d6dac39d1631d0caa2c3bdf5ae9976"
 hash-format = "sha256"
 metafile = true
 
 [[files]]
 file = "mods/aeroconnectedfluidvessel-1.0.0.pw.toml"
 hash = "f4fd785d4fa12e511c3587a9c9ea5db647e947727240db63102315e929315978"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/aeronautics-deployer-direction-fix.pw.toml"
+hash = "44666f08d63a06858301ba0525a29d7b9f55db14bf1d2f07166c17dd4b06c5d3"
 hash-format = "sha256"
 metafile = true
 
@@ -2794,6 +2818,12 @@ hash = "94c8e671c99ad3b098678cc1947594f7723e294c7692a4d0f9126a4d85a756e6"
 hash-format = "sha256"
 
 [[files]]
+file = "mods/alltheleaks.pw.toml"
+hash = "7e03652d2003566873ab5103454f7c537471d6c2fea1c2f614507b33ef4434f7"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/appleskin-neoforge-mc1.21-3.0.9.pw.toml"
 hash = "e00518dac4b15c0d4e3633cd0f8b03a2d9451d9ae0f0c47118e1c8599ce9cd48"
 hash-format = "sha256"
@@ -2802,6 +2832,12 @@ metafile = true
 [[files]]
 file = "mods/architectury-13.0.8-neoforge.pw.toml"
 hash = "e03480259e8e07a1905782e4a30a39c5cd23ac899baa2bbcfc1e168ab2bc9317"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "6d3a1c92eee4dd671253c41ec000ae48064a33c45263d6adce5cad466395169d"
 hash-format = "sha256"
 metafile = true
 
@@ -2926,7 +2962,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-neoforge-mc1.21.1-0.4.0-alpha.0.112.pw.toml"
-hash = "6e65391a930453f8ea2961f733b3c9e4d86df762679cdd3e9232b75c32760a0a"
+hash = "7a95e792cc75a53962122173b4948cf1a8bb1dace194a5be699952b65fb25cbb"
 hash-format = "sha256"
 metafile = true
 
@@ -2939,6 +2975,18 @@ metafile = true
 [[files]]
 file = "mods/caelus-neoforge-7.0.1+1.21.1.pw.toml"
 hash = "c09d6eca468cc9f64964b653ee9ecbd11ccc8518f64d9054dd0edb4e3bf28a67"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/cbc-enchanced-shells-create-big-cannons.pw.toml"
+hash = "eae74034be003c52c955e62c727a95ab5302ab8ed5ca12d6a846f800ae2c93f0"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/cbc-neo-warfare.pw.toml"
+hash = "372291300bbf4e4a0589d5c6bc9b075d28b70d5bf247d1b64ab6f520b68e3e7b"
 hash-format = "sha256"
 metafile = true
 
@@ -3031,6 +3079,12 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/client-crafting.pw.toml"
+hash = "c4222841169214cd4db3ee2347e3d41a0eb9451e6b09f80d0e2739f25b5ddd44"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/climbable_ropes-2.1.0.pw.toml"
 hash = "d6a062076935e61f814a09442bbd3a11f0cdb276ccf6e38fd2eee2fd68a7f8fa"
 hash-format = "sha256"
@@ -3077,6 +3131,12 @@ hash = "2366973ddae5ba00b9ba15a26e5b610a6648038b9f2549bf81b9ae61342b281a"
 hash-format = "sha256"
 
 [[files]]
+file = "mods/connectivity.pw.toml"
+hash = "81105a1a363873f3675a861d228abcf0f2a8356f1a17850c06f6d6c47e454634"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/connector-2.0.0-beta.14+1.21.1-full.pw.toml"
 hash = "45aa4a85b8768ab264997ae85b5f060b1a1bd430ce280617c30906e67e7f7682"
 hash-format = "sha256"
@@ -3097,6 +3157,12 @@ metafile = true
 [[files]]
 file = "mods/copycats-3.0.4+mc.1.21.1-neoforge.pw.toml"
 hash = "c1caca39dc49de24918782b636088590f3de8220b20bbc057d84460c5f9667ed"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/copycats.pw.toml"
+hash = "e3d0e6da51df08d87c9b88fd6b4011de711d95497263b9ecfd1466cbd34b98d5"
 hash-format = "sha256"
 metafile = true
 
@@ -3125,14 +3191,68 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/create-aeronautics-copycat-wing.pw.toml"
+hash = "702f920d362c413cd2054d63c4a6e1b4d32529f9737f4b20c2bd3184383a10f6"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/create-aeronautics-curios-compat.pw.toml"
+hash = "0b00254c02684ba298505c954c30006dbc328a94f219332061a9cf811ef2fd02"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/create-aeronautics-joystick-control-stick.pw.toml"
+hash = "fc8b1da313f2eeaefe95474d4da6e8fd87ab9c9af54ca3f5af51da219923524e"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/create-aeronautics-lift-patch-1.1.0.pw.toml"
 hash = "2c13f795b37cd01d9bc97dae50581f9c015f4f61706fea27e9e41f42d7ecb860"
 hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/create-aeronautics-variable-weight-block.pw.toml"
+hash = "9263c9bc9d91f89ff5dbccb51cf2ce64a5673038e1d80ea6df8de15911b22c9a"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/create-aeronautics.pw.toml"
+hash = "59beba57945e374108e22789e8fc32d2758174929ebd9bf17fc139956dc32e30"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/create-aeroportals.pw.toml"
+hash = "cf8ea1c32a7be0719365004338b7c5e3ac701a758775d65972c69f6fcc475b0a"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/create-automated-blaze-cakes.pw.toml"
+hash = "a95e9c5ecd359a7cc8e706ce755118c5a63bcb3361cb0a124246c4a6e041e84a"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/create-big-cannons.pw.toml"
+hash = "b6ac94e91f766466186d350ed45a79fdcf7805f34d9170ccc8612ff47983a5f5"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/create-break_levitite-1.1.0.pw.toml"
 hash = "e2af1247b78c20c09f8617c0a200431d06b41ad8b5754277c50e3a9d916b4f96"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/create-compact-flap.pw.toml"
+hash = "fb073ef2c714a883bb90b6c5a1bdcbeae5bf52a4f2e16c513f978de36a45769f"
 hash-format = "sha256"
 metafile = true
 
@@ -3145,6 +3265,18 @@ metafile = true
 [[files]]
 file = "mods/create-hangars-V1.0.0.pw.toml"
 hash = "8611e1c0c12a074b90f91c10a7179d517745fbf0dd3b53954aeee6b18808d622"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/create-kinetic-grip.pw.toml"
+hash = "9cbc43b7e0d958c45b733f1408ecf477f4fc199ded13ee2c5c85aeed8f20bddb"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/create.pw.toml"
+hash = "4b0ca63279620ec9ba4c63820a9d4f9ceea9b717227137ea19e5c420c820f858"
 hash-format = "sha256"
 metafile = true
 
@@ -3361,14 +3493,32 @@ hash = "722847521c1f9bae079bd3ec1a70b187c3186e71247ddf1182c0ea498cdec067"
 hash-format = "sha256"
 
 [[files]]
+file = "mods/cupboard.pw.toml"
+hash = "0eaf99546b07ea456f4b8f198b646a06f5b9446fb735494f034871f70d36c569"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/curios-neoforge-9.5.1+1.21.1.pw.toml"
 hash = "f4971a6810284de81cf0a6e82c3f99722bd1ea59679cdfa46f2d16f7d1cc75b6"
 hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/curios.pw.toml"
+hash = "f92e7a06645e41ea1934dc420eb2772edb1708c0d71cb427baef8cf753acb934"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/cwb-neoforge-3.0.0+mc1.21.pw.toml"
 hash = "06d78683d1dc4b67ce2a752c6d91a51ec726cd116dd78de103fb0ffdf245c642"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/dbw-recipes-with-sable.pw.toml"
+hash = "7b21febe5a364a06a896063460b0fb7363741bc601e31eb13afac566918e06fe"
 hash-format = "sha256"
 metafile = true
 
@@ -3390,6 +3540,12 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/drive-by-wire-with-sable.pw.toml"
+hash = "9cae535d0e517933a95ce8819a52f0bc603dab6924de89f65de22d180fa5d6fe"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/drivebywire-0.2.9.pw.toml"
 hash = "7e97891e159b9b5dd0def85fa7566fccde06bc7358fcf650f69f4bc91f46a63c"
 hash-format = "sha256"
@@ -3402,7 +3558,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/drivebywire-typewriter-1.0.2.pw.toml"
-hash = "5a04f60caba0f6cb3973aef8fbfd438d04baf4eaf269ab95215dc6261f86c837"
+hash = "396133aa5042b06534d2ca89f35678716295aea379b5dbcd453729bb0ea1da23"
 hash-format = "sha256"
 metafile = true
 
@@ -3466,6 +3622,12 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/fix-gpu-memory-leak.pw.toml"
+hash = "72471ae43e5e2d976d380ada3c2d7159e1004685c7200c80eaa8f0caac787cb2"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/flyhigher-1.21.1-1.0.2.pw.toml"
 hash = "073a6675d2ce77dc83f270ddf8afb773f0d41506bb4782a8755b9608df7a7029"
 hash-format = "sha256"
@@ -3474,6 +3636,12 @@ metafile = true
 [[files]]
 file = "mods/forgified-fabric-api-0.116.7+2.2.4+1.21.1.pw.toml"
 hash = "8a3b0282ca5fe4f5dd56dc2af7efa9a78caf535cd9f040af7e20a313da514fc9"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/ftb-chunks-forge.pw.toml"
+hash = "268e0ccb66eb96da9a85f129ee1247581398e6d4848d190647729cd68a7a5006"
 hash-format = "sha256"
 metafile = true
 
@@ -3488,9 +3656,27 @@ hash = "4da8e4d461ceef1a5e6f6705265fe24239b132cdc408eb77787231cb56c219bf"
 hash-format = "sha256"
 
 [[files]]
+file = "mods/ftb-essentials.pw.toml"
+hash = "aaa5d15a2ebf6ae368561fc49d7994ffa5084138942095cb4ded4c8921189437"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/ftb-library-forge.pw.toml"
+hash = "5fb287ddb204cc2460dc51984099b0010462f781d00b2d6ed2a37046accf2560"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/ftb-library-neoforge-2101.1.32.jar"
 hash = "6308e71fec7095f68328020a63121a966c8ef89bd3528e459c528037e3484354"
 hash-format = "sha256"
+
+[[files]]
+file = "mods/ftb-quests-forge.pw.toml"
+hash = "d1cd2e49985872d923864aa44e4ff8b4d97e3ab9e78bf2c5fd57d2275a62901b"
+hash-format = "sha256"
+metafile = true
 
 [[files]]
 file = "mods/ftb-quests-neoforge-2101.1.27.jar"
@@ -3498,9 +3684,21 @@ hash = "460b163ebefb4580e1ad32e1f94f1ea4bdc8f763692ee821628ace10bde49a03"
 hash-format = "sha256"
 
 [[files]]
+file = "mods/ftb-teams-forge.pw.toml"
+hash = "e717bb275a54a5caadaa7cf82bc34df3589f49402074adf93c31eaac43860313"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/ftb-teams-neoforge-2101.1.10.jar"
 hash = "a656f2aa0e11a933aab3ba697690aa0eb2041f65e6c5daa448897ee0a6d37a6c"
 hash-format = "sha256"
+
+[[files]]
+file = "mods/ftb-ultimine-forge.pw.toml"
+hash = "3529bc9c3a7b54933869be1d1d84a948d091c3d6064bbb6b17874d7c153b4dca"
+hash-format = "sha256"
+metafile = true
 
 [[files]]
 file = "mods/ftb-ultimine-neoforge-2101.1.15.jar"
@@ -3511,6 +3709,12 @@ hash-format = "sha256"
 file = "mods/ftb-xmod-compat-neoforge-21.1.8.jar"
 hash = "7e04b6d10e8eb6bac55f023d3d88ac3e8e146e57c3bb912462155ad1e49b3ca1"
 hash-format = "sha256"
+
+[[files]]
+file = "mods/ftb-xmod-compat.pw.toml"
+hash = "43287a3c5030a05b370b45ec1ab9a4a8d5c3d43e9c740aae5218f07ffd041fd2"
+hash-format = "sha256"
+metafile = true
 
 [[files]]
 file = "mods/ftbchunksaerospace-1.0.1.pw.toml"
@@ -3661,6 +3865,12 @@ hash = "fede359dbf9b8174921b5ed354c18256fd436ee9bdbf0230a63f90890c9f2a15"
 hash-format = "sha256"
 
 [[files]]
+file = "mods/leaky.pw.toml"
+hash = "d7fdd40f48a5314608ba2376cb04b115f179a9b137c250902724405835079cf6"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/letmedespawn-1.21.x-neoforge-1.5.0.pw.toml"
 hash = "98d67ee2d4c0d3d8420e5037e97d3bcdf1a818a8a5d1ffbb068493a01dbf35dd"
 hash-format = "sha256"
@@ -3680,7 +3890,7 @@ metafile = true
 
 [[files]]
 file = "mods/lionfishapi-3.0.pw.toml"
-hash = "f005ca2628d263a7b9d837621c99d4506f675f151d8686d21951be3ed2d1b398"
+hash = "0d40cd43ad1d00d8a615c343bf6eb9961dd7ac175b91e38a9e75deaf38613cef"
 hash-format = "sha256"
 metafile = true
 
@@ -3697,14 +3907,14 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/lithostitched.pw.toml"
-hash = "b26f156be8a05063a0b08cb1afe7c76d392db90a9544f0500bd5c8821196bbe8"
+file = "mods/lmft-1.1.1+1.21.9-neoforge.pw.toml"
+hash = "d53b8f380fa8a0653bfdf9001bbe9701dafe772622ad78b37f3336acd575fd46"
 hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/lmft-1.1.1+1.21.9-neoforge.pw.toml"
-hash = "d53b8f380fa8a0653bfdf9001bbe9701dafe772622ad78b37f3336acd575fd46"
+file = "mods/loot-integrations.pw.toml"
+hash = "543b8a8ff5796648146f3102dea686e806f793052d329d0fa3efee8194d4df52"
 hash-format = "sha256"
 metafile = true
 
@@ -3745,7 +3955,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight-neoforge-1.21.1-3.0.20.pw.toml"
-hash = "6be8bf0ece9cb1a9949b4b08af22e580d863b1b373d7fbe21e4d628aa78ffa27"
+hash = "d79d7aadf79037e80962ef945ed6b2f70e0056f2e347fe09a9bc54bdc3090a59"
 hash-format = "sha256"
 metafile = true
 
@@ -3803,6 +4013,12 @@ hash = "4be89c91385ffaecb5a0cc405d644dc7387c6f05705630b26df333a226ffae08"
 hash-format = "sha256"
 
 [[files]]
+file = "mods/placebo.pw.toml"
+hash = "201e0be56d2d9430843688b4a04dea207732b6d60f8001fb9e6396d48aea287f"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/player-animation-lib-forge-2.0.4+1.21.1.pw.toml"
 hash = "445ce6764cba09047c142c04dbafca9ce17042de34668b8abe7b4b0767708aac"
 hash-format = "sha256"
@@ -3853,6 +4069,12 @@ metafile = true
 [[files]]
 file = "mods/railways-0.3.0-alpha.2+neoforge-mc1.21.1.pw.toml"
 hash = "a3f8dad85392d1af54038965c97f76e2e6197ab691b61708fc3bf6c70bea857c"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/recipe-essentials-forge-fabric.pw.toml"
+hash = "ecbc384114318570051d906332bb5c4841740240fc4722879761bf3aa6fa78af"
 hash-format = "sha256"
 metafile = true
 
@@ -3934,6 +4156,12 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/ritchies-projectile-library.pw.toml"
+hash = "c62b51a8248d15e3cb63880ac123a92dd6a67973a1eafc4c4cb09f3f74481f78"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/ritchiesprojectilelib-2.1.2+mc.1.21.1-neoforge.pw.toml"
 hash = "3cd727054f3f8c1f04b2e26efdb47a009fbe50da2744998471479d74a8fcc16d"
 hash-format = "sha256"
@@ -3960,6 +4188,18 @@ metafile = true
 [[files]]
 file = "mods/sable-schematic-api-0.4.0.pw.toml"
 hash = "d5cddd6e9918c07867fa88441b820119cc446860d2241237165ff3cc77b88c9d"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/sable-x-xaero-bridge.pw.toml"
+hash = "910de760c284e7a94711f222a521d2bcad3d03f70eca4acb4a740effb0cf813e"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/sable.pw.toml"
+hash = "56c47f4f4732d86a144c8c86af80411238c3ea74f6b96b0bc5174d2f20073a98"
 hash-format = "sha256"
 metafile = true
 
@@ -4035,6 +4275,12 @@ hash = "3aebf4cd855a12424976916a90a1a464e8cfe3c2a1df511b9ef1106bec7bc966"
 hash-format = "sha256"
 
 [[files]]
+file = "mods/shtreimel-sable-server-utility.pw.toml"
+hash = "be9b56327e43133179f59e1a4039f1edb34e55ae71ed0fce65bbeeb434a94586"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/sim_copycats-1.3.0.pw.toml"
 hash = "51cf2a3ae77b55469dca4e53507fbb452c113dc42eb7e40baedf0d469cf4b58b"
 hash-format = "sha256"
@@ -4059,6 +4305,12 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/smooth-chunk-save.pw.toml"
+hash = "75a42a9eba356b81f33bb160c5da533e7fdf90b478b43bc463d37264c47bcf4e"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/smoothchunk-1.21-4.1.jar"
 hash = "a79f06eaffe7e5b834620da3c2cdad782aeaf4f1f207d03f8b0228a20bab65e3"
 hash-format = "sha256"
@@ -4071,7 +4323,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticatedbackpacks-1.21.1-3.25.64.1933.pw.toml"
-hash = "b2a77d0efaf927b438e11878c656eac4ab7ab6f19bf7b399a89d45458b14039c"
+hash = "6871dbec19d917364bb5c6d0343ab752692ac516f42f71f752bb68b374070b75"
 hash-format = "sha256"
 metafile = true
 
@@ -4114,6 +4366,12 @@ metafile = true
 [[files]]
 file = "mods/stickywheels-1.21.1-0.0.2.pw.toml"
 hash = "9195faab520fadec9c6c8a3a06ec48c3d950a93184ac6d606c9fda5b818abff5"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/structure-essentials-forge-fabric.pw.toml"
+hash = "dcbf8b45454dc87262ef3660d21e7fb73f035e3a65aa8fb6c1c711c63cec335d"
 hash-format = "sha256"
 metafile = true
 
@@ -4173,6 +4431,12 @@ metafile = true
 [[files]]
 file = "mods/terralith.pw.toml"
 hash = "728c8c0fc2df8192154012354270febc75e29ad66a3a103c2b3c76148aec5934"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/toast-control.pw.toml"
+hash = "59dba91bb98d9ec0b16dfd33cb975635a5b33a3c816b6c6a8f56d0416396b5e1"
 hash-format = "sha256"
 metafile = true
 
@@ -4243,7 +4507,7 @@ metafile = true
 
 [[files]]
 file = "mods/vista-neoforge-1.21.1-4.4.14.pw.toml"
-hash = "d9ae8e4a19bec59b667752c969e0053c4a55cb2e9faa84059837ded32ca1c2db"
+hash = "c945fcf8c92e59b20c7ef322f10f6a99653dc35aa7fddd09db73b5875feefa42"
 hash-format = "sha256"
 metafile = true
 
@@ -4302,6 +4566,21 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "overrides/.minecraft/packwiz-installer-bootstrap.jar"
+hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
+hash-format = "sha256"
+
+[[files]]
+file = "overrides/mods/hexcasting-neoforge-1.21.1-0.12.0-devel-pre-16.jar"
+hash = "1d0c807a6501f2dff5736201ab3f6df0107241dee42a9fcf737cfb5bbff64522"
+hash-format = "sha256"
+
+[[files]]
 file = "overrides/mods/linearbearing-1.3.5.jar"
 hash = "d9d7ac92e261630b30e7cc8c68f6bf1e1d2d9a92fc1321243274f1a922f57d55"
+hash-format = "sha256"
+
+[[files]]
+file = "overrides/mods/paucal-0.7.1-pre-27+1.21.1-neoforge.jar"
+hash = "4be89c91385ffaecb5a0cc405d644dc7387c6f05705630b26df333a226ffae08"
 hash-format = "sha256"

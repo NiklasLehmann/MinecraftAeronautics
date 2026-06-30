@@ -1,0 +1,13 @@
+name = "Aeronautics:Deployer Direction Fix"
+filename = "deployer_got_dizzy-0.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "69612ac5675840de8847507ef029e28a9c929494"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8094798
+project-id = 1544067

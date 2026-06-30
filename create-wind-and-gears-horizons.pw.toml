@@ -1,0 +1,13 @@
+name = "Create Aeronautics  Horror Edition"
+filename = "create_aeronautics_Horror.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d4a06ccb78a08ff76e2d226a39992c77e8d23bd9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8187188
+project-id = 1550716
