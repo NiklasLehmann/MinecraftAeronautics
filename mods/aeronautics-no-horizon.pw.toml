@@ -1,0 +1,13 @@
+name = "Aeronautics:No Horizon"
+filename = "aero_no_horizon-1.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "858dc1d9463739826522c54baa4b0b1efb44bc89"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8181121
+project-id = 1558694

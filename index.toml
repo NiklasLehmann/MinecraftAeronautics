@@ -1,12 +1,6 @@
 hash-format = "sha512"
 
 [[files]]
-file = "cca2.pw.toml"
-hash = "0e6f243238d293e69d5641729e4db25d9704dba24fd9d6252c0176173d4c51aa"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
 file = "config/.puzzle_cache/mojangstudios.png"
 hash = "1ba862a28dc0478ca94a0f2bf8689f4b6294ed2886dee3fdf9a10f4029110fa5"
 hash-format = "sha256"
@@ -2317,21 +2311,9 @@ hash = "7d856d3f9655abc661ac67b450a0c956bbf80323786b407301fbdca02d2c5b8b"
 hash-format = "sha256"
 
 [[files]]
-file = "create-wind-and-gears-horizons.pw.toml"
-hash = "3e10060c5d912b940d7c8e011f4b052c88dc240704230639743cd22db0b28889"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
 file = "datapacks/pressure-y1500.zip"
 hash = "400334abf4b2d7572c549d3716a9a664defbdd4c73283f37b6240a9696f5566e"
 hash-format = "sha256"
-
-[[files]]
-file = "fix-for-create-tracks.pw.toml"
-hash = "1cb6939b7034e7f19f1240533da862f953cc9456ad5243419c6ccca549ea10d9"
-hash-format = "sha256"
-metafile = true
 
 [[files]]
 file = "mods/AdvancedPeripherals-1.21.1-0.7.62b.pw.toml"
@@ -2757,6 +2739,12 @@ metafile = true
 [[files]]
 file = "mods/aeronautics-deployer-direction-fix.pw.toml"
 hash = "44666f08d63a06858301ba0525a29d7b9f55db14bf1d2f07166c17dd4b06c5d3"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/aeronautics-no-horizon.pw.toml"
+hash = "29a3d9ac72b87d08670be4fd8c873a5d55eabb8a6fc1b8cb0e9b6f67e9b02404"
 hash-format = "sha256"
 metafile = true
 
@@ -3197,12 +3185,6 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/create-aeronautics-curios-compat.pw.toml"
-hash = "0b00254c02684ba298505c954c30006dbc328a94f219332061a9cf811ef2fd02"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
 file = "mods/create-aeronautics-joystick-control-stick.pw.toml"
 hash = "fc8b1da313f2eeaefe95474d4da6e8fd87ab9c9af54ca3f5af51da219923524e"
 hash-format = "sha256"
@@ -3257,6 +3239,12 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
+file = "mods/create-creative-assembly.pw.toml"
+hash = "27105c8744e236da982bafd803dc7a83ddd72f0df77b78bb161d3e0edd946a8f"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
 file = "mods/create-guardian-shooter-1.0.18.pw.toml"
 hash = "04ed06d674012e0a44b5fc30468cb11b1fef622e53e8f3d37209b499d3ba914e"
 hash-format = "sha256"
@@ -3271,6 +3259,12 @@ metafile = true
 [[files]]
 file = "mods/create-kinetic-grip.pw.toml"
 hash = "9cbc43b7e0d958c45b733f1408ecf477f4fc199ded13ee2c5c85aeed8f20bddb"
+hash-format = "sha256"
+metafile = true
+
+[[files]]
+file = "mods/create-tracks-fix-edition.pw.toml"
+hash = "5d045c308e7a247814811eb0f256f0a2e9afc4496a8188fddd07c3e8aa68c4ed"
 hash-format = "sha256"
 metafile = true
 
