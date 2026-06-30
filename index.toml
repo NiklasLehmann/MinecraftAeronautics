@@ -4156,12 +4156,6 @@ hash-format = "sha256"
 metafile = true
 
 [[files]]
-file = "mods/ritchiesprojectilelib-2.1.2+mc.1.21.1-neoforge.pw.toml"
-hash = "3cd727054f3f8c1f04b2e26efdb47a009fbe50da2744998471479d74a8fcc16d"
-hash-format = "sha256"
-metafile = true
-
-[[files]]
 file = "mods/ropefix-1.2.2.pw.toml"
 hash = "5ab699baa98f03a8b00df62c13977c51bcacea3da32e9a601801d141ccd142bc"
 hash-format = "sha256"
