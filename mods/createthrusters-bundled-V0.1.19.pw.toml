@@ -1,14 +1,13 @@
-﻿name = "createthrusters-bundled-V0.1.19"
-filename = "createthrusters-bundled-V0.1.19.jar"
+name = "createthrusters-bundled-V0.1.19"
+filename = "createthrusters-bundled-V1.0.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Sza3GgEL/versions/Z7573bkG/createthrusters-bundled-V0.1.19.jar"
+url = "https://cdn.modrinth.com/data/Sza3GgEL/versions/MxAZlKRu/createthrusters-bundled-V1.0.3.jar"
 hash-format = "sha512"
-hash = "49550cf3befca1d1375a6b7af247056818d051a3ace3c110c3b83a5e7c71084a4831e5c32e22cf1c8e9e26d6d38ca1b357b21250e5e96111b451358146ab9f6a"
+hash = "8c06c3d6e143ecc6b48cd291941f13716b82261adb1287c57dbe3128879bff76173bd78650d26cece61dbe9c260d8ccbbf281e886fb82e1b2014a0c847f42939"
 
 [update]
 [update.modrinth]
 mod-id = "Sza3GgEL"
-version = "Z7573bkG"
-
+version = "MxAZlKRu"

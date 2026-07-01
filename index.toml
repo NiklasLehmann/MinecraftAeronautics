@@ -3246,7 +3246,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-guardian-shooter-1.0.18.pw.toml"
-hash = "04ed06d674012e0a44b5fc30468cb11b1fef622e53e8f3d37209b499d3ba914e"
+hash = "32cc318489c089c4a4ead375bd20c081dc2e52650b5fe5a1ac7289a69b437575"
 hash-format = "sha256"
 metafile = true
 
@@ -3807,7 +3807,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei-1.21.1-neoforge-19.27.0.343.pw.toml"
-hash = "92bc5862fc4a07782e7e5f9ef5a8794dea9fff977a80e6860edd60b6059e7412"
+hash = "708d747c198174cda43d845bb6c9f5311576ce483f0cfa6da42bd32b087ace26"
 hash-format = "sha256"
 metafile = true
 
