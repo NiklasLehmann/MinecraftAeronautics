@@ -4579,6 +4579,11 @@ hash = "b30f81acd80f3e09ff20f7674c94aa820f9a5eb746b756d11340d925de2fcc7f"
 hash-format = "sha256"
 
 [[files]]
+file = "overrides/packwiz-installer-bootstrap.jar"
+hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
+hash-format = "sha256"
+
+[[files]]
 file = "overrides/resourcepacks/-1.21.2 Fresh Moves v3.1 (With Animated Eyes).zip"
 hash = "c433f3d831e86faa956836bf327ca00151bd813d1a8ab36aa064d518a58790f7"
 hash-format = "sha256"
