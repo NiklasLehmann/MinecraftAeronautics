@@ -4559,8 +4559,18 @@ hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
 hash-format = "sha256"
 
 [[files]]
+file = "overrides/modpack_version.json"
+hash = "662b20289aeb1a425be4082c8c0065f68818c127fd3b35e30b11f8bf03b2bdcb"
+hash-format = "sha256"
+
+[[files]]
 file = "overrides/mods/hexcasting-neoforge-1.21.1-0.12.0-devel-pre-16.jar"
 hash = "1d0c807a6501f2dff5736201ab3f6df0107241dee42a9fcf737cfb5bbff64522"
+hash-format = "sha256"
+
+[[files]]
+file = "overrides/mods/ia_updater-1.0.0.jar"
+hash = "4955321894add412db38d93771b552b2b3258c71a5c59368734e380df66cf5fb"
 hash-format = "sha256"
 
 [[files]]
